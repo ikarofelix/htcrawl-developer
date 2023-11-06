@@ -1,0 +1,29 @@
+{
+  "name": "htcrawl",
+  "version": "1.0.7",
+  "description": "crawler for single page applications",
+  "main": "main.js",
+  "devDependencies": {
+    "puppeteer": "^19.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filippo Cavallarin",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcavallarin/htcrawl.git"
+  },
+  "keywords": [
+    "crawler",
+    "crawling",
+    "puppeteer",
+    "SPA",
+    "headless-chrome"
+  ],
+  "bugs": {
+    "url": "https://github.com/fcavallarin/htcrawl/issues"
+  },
+  "homepage": "https://htcrawl.org"
+}
